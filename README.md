@@ -1,2 +1,2 @@
-# we
-Who are we? What we do?
+# LYRA
+## Who are we? 
